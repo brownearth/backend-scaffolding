@@ -1,2 +1,3 @@
 # backend-scaffolding
-template for backend services and APIs using Go
+Template for RESTful APIs using Gin framework, postgres, openAPI, open telemetry
+eli was here
